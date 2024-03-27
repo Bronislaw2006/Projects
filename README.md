@@ -1,5 +1,5 @@
 # PYTHON PROJECTS
-This is my First Project.
+These are my Python Projects.
 <br>
 Authur: Bronislaw Britto.
 <br>
