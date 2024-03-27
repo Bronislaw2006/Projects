@@ -1,4 +1,4 @@
-# Band-Name-Generator
+# PYTHON PROJECTS
 This is my First Project.
 <br>
 Authur: Bronislaw Britto.
