@@ -1,2 +1,3 @@
 # Band-Name-Generator
-This is my first project.
+This is my First Project.
+Authur: Bronislaw Britto.
