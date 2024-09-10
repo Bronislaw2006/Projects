@@ -1,5 +1,5 @@
 # Band Name Generator
-br<>
+
 
 This simple Python project helps you generate a unique band name based on two personal inputs: the city you grew up in and the name of your pet.
 br<>
